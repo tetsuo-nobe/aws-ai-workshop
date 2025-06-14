@@ -61,7 +61,7 @@
 
 ## Amazon Bedrock ナレッジベース作成 ハンズオン
 
-* 
+* [こちらのページ](https://github.com/tetsuo-nobe/bedrock-work/tree/main/knowledgebase) を開いて下さい。
   
 
 
