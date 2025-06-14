@@ -56,14 +56,15 @@
 * Amazon Bedrock の基盤モデルを使用し、チャットや画像生成を試してみましょう
     - [**Generative AI Use Cases on AWS (Gen U)**](https://dzi8ysmbqjrv9.cloudfront.net/)  (リンクを右クリックして新しいタブで開いて下さい。）
         - ログイン ID とパスワードはインストラクターよりご案内します。
+        - サインイン後、下記のメッセージが表示されたら、**スキップ** を選択して下さい。
+            - 「アカウントの復旧には確認済みの連絡先が必要です」
 
 ---
 
 ## Amazon Bedrock ナレッジベース作成 ハンズオン
 
 * [こちらのページ](https://github.com/tetsuo-nobe/bedrock-work/tree/main/knowledgebase) を開いて下さい。
-* サインイン後、下記のメッセージが表示されたら、**スキップ** を選択して下さい。
-    - アカウントの復旧には確認済みの連絡先が必要です
+
   
 
 
