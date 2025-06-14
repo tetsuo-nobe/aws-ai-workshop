@@ -44,7 +44,20 @@
 ---
 ## Amazon Transcribe ハンズオン
   
-* ***Sandobox** 環境を使用します。
+* **Sandobox** 環境を使用します。
+
+* 音声ファイル： `s3://tnobep-demo-public/edo.mp3`
+
+---
+
+## Amazon Bedrock ハンズオン
+
+* GenU アプリケーションで Amazon Bedrock の基盤モデルを使用し、チャットや画像生成を試してみましょう
+
+## Amazon Bedrock ナレッジベース作成 ハンズオン
+
+* 
+  
 
 
 
