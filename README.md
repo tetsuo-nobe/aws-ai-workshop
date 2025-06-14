@@ -57,6 +57,8 @@
     - [**Generative AI Use Cases on AWS (Gen U)**](https://dzi8ysmbqjrv9.cloudfront.net/)  (リンクを右クリックして新しいタブで開いて下さい。）
         - ログイン ID とパスワードはインストラクターよりご案内します。
 
+---
+
 ## Amazon Bedrock ナレッジベース作成 ハンズオン
 
 * 
