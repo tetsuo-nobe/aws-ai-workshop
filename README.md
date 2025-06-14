@@ -87,7 +87,7 @@
 ---
 
 ## Amazon Bedrock ナレッジベース作成 ハンズオン
-
+* **Sandobox** 環境を使用します。
 * [こちらのページ](https://github.com/tetsuo-nobe/bedrock-work/tree/main/knowledgebase) を開いて下さい。
 
   
