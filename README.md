@@ -30,6 +30,7 @@
 * トランプ大統領の画像 : `https://tnobep-demo-public.s3.ap-northeast-1.amazonaws.com/Trump.jpg`
 * ジェフ・ベゾスの画像 : `https://tnobep-demo-public.s3.ap-northeast-1.amazonaws.com/jeff2.jpg`  
 * 岸田元首相の画像 : `https://tnobep-demo-public.s3.ap-northeast-1.amazonaws.com/kishida.jpeg`  
-* モノマネした芸人の画像 : `https://tnobep-demo-public.s3.ap-northeast-1.amazonaws.com/RG.jpg`  
+* 文字を含む画像 1 : `https://tnobep-demo-public.s3.ap-northeast-1.amazonaws.com/blog-title1.jpg`  
+* 文字を含む画像 2 : `https://tnobep-demo-public.s3.ap-northeast-1.amazonaws.com/blog-title2.jpg`  
 
 ---
