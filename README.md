@@ -23,7 +23,7 @@
 
 ## Amazon Rekognition ハンズオン
 
-* ***Sandobox** 環境を使用します。
+* **Sandobox** 環境を使用します。
 
 * 猫の画像 : `https://tnobep-demo-public.s3.ap-northeast-1.amazonaws.com/cat.jpg`
 * 桜の画像 : `https://tnobep-demo-public.s3.ap-northeast-1.amazonaws.com/cherry.jpg`
@@ -52,7 +52,7 @@
 
 ## Amazon Bedrock ハンズオン
 
-* [Generative AI Use Cases on AWS (Gen U)](https://dzi8ysmbqjrv9.cloudfront.net/) アプリケーションで Amazon Bedrock の基盤モデルを使用し、チャットや画像生成を試してみましょう
+* [**Generative AI Use Cases on AWS (Gen U)**](https://dzi8ysmbqjrv9.cloudfront.net/) アプリケーションで Amazon Bedrock の基盤モデルを使用し、チャットや画像生成を試してみましょう
     - ログイン ID とパスワードはインストラクターよりご案内します。
 
 ## Amazon Bedrock ナレッジベース作成 ハンズオン
