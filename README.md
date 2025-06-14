@@ -27,7 +27,9 @@
 * 桜の画像 : `https://tnobep-demo-public.s3.ap-northeast-1.amazonaws.com/cherry.jpg`
 * ギターを演奏している画像 : `https://tnobep-demo-public.s3.ap-northeast-1.amazonaws.com/guitar.png`
 * 自動車の画像 : `https://tnobep-demo-public.s3.ap-northeast-1.amazonaws.com/car-woods.jpg`
-* トランプ大統領の画像 : `https://tnobep-demo-public.s3.ap-northeast-1.amazonaws.com/Trump.jpg`  
+* トランプ大統領の画像 : `https://tnobep-demo-public.s3.ap-northeast-1.amazonaws.com/Trump.jpg`
 * ジェフ・ベゾスの画像 : `https://tnobep-demo-public.s3.ap-northeast-1.amazonaws.com/jeff2.jpg`  
+* 岸田元首相の画像 : `https://tnobep-demo-public.s3.ap-northeast-1.amazonaws.com/kishida.jpeg`  
+* モノマネした芸人の画像 : `https://tnobep-demo-public.s3.ap-northeast-1.amazonaws.com/RG.jpg`  
 
 ---
