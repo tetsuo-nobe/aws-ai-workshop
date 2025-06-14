@@ -52,7 +52,8 @@
 
 ## Amazon Bedrock ハンズオン
 
-* GenU アプリケーションで Amazon Bedrock の基盤モデルを使用し、チャットや画像生成を試してみましょう
+* [Generative AI Use Cases on AWS (Gen U)](https://dzi8ysmbqjrv9.cloudfront.net/) アプリケーションで Amazon Bedrock の基盤モデルを使用し、チャットや画像生成を試してみましょう
+    - ログイン ID とパスワードはインストラクターよりご案内します。
 
 ## Amazon Bedrock ナレッジベース作成 ハンズオン
 
