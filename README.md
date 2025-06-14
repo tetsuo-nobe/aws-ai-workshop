@@ -38,8 +38,9 @@
 ---
 ## Amazon Polly ハンズオン
 
-* Polly の機能を体験できるアプリケーション: [**PollyNotes**](https://demo.d3u2kpfgi4qdpw.amplifyapp.com)
-    - ログイン ID とパスワードはインストラクターよりご案内します。
+* Amazon Polly の機能を体験できるアプリケーションを使ってみましょう。
+    - [**PollyNotes**](https://demo.d3u2kpfgi4qdpw.amplifyapp.com) (リンクを右クリックして新しいタブで開いて下さい。）
+        - ログイン ID とパスワードはインストラクターよりご案内します。
  
 ---
 ## Amazon Transcribe ハンズオン
@@ -52,8 +53,9 @@
 
 ## Amazon Bedrock ハンズオン
 
-* [**Generative AI Use Cases on AWS (Gen U)**](https://dzi8ysmbqjrv9.cloudfront.net/) アプリケーションで Amazon Bedrock の基盤モデルを使用し、チャットや画像生成を試してみましょう
-    - ログイン ID とパスワードはインストラクターよりご案内します。
+* Amazon Bedrock の基盤モデルを使用し、チャットや画像生成を試してみましょう
+    - [**Generative AI Use Cases on AWS (Gen U)**](https://dzi8ysmbqjrv9.cloudfront.net/)  (リンクを右クリックして新しいタブで開いて下さい。）
+        - ログイン ID とパスワードはインストラクターよりご案内します。
 
 ## Amazon Bedrock ナレッジベース作成 ハンズオン
 
