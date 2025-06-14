@@ -1,7 +1,9 @@
 # AWS の AI サービス体験会
 
 ---
-## ハンズオン環境 へのアクセス (本日の 18:00 まで使用できます。）
+## ハンズオンの Sandbox 環境 へのアクセス (本日の 18:00 まで使用できます。）
+
+* (リンクを右クリックして新しいタブで開いて下さい。）
 
 1. [Sandbox01](https://314146301760.signin.aws.amazon.com/console)
 1. [Sandbox02](https://535002877232.signin.aws.amazon.com/console)
