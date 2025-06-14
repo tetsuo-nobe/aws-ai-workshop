@@ -62,6 +62,8 @@
 ## Amazon Bedrock ナレッジベース作成 ハンズオン
 
 * [こちらのページ](https://github.com/tetsuo-nobe/bedrock-work/tree/main/knowledgebase) を開いて下さい。
+* サインイン後、下記のメッセージが表示されたら、**スキップ** を選択して下さい。
+    - アカウントの復旧には確認済みの連絡先が必要です
   
 
 
