@@ -21,7 +21,9 @@
 
 ---
 
-## Amazon Polly ハンズオン
+## Amazon Rekognition ハンズオン
+
+* ***Sandobox** 環境を使用します。
 
 * 猫の画像 : `https://tnobep-demo-public.s3.ap-northeast-1.amazonaws.com/cat.jpg`
 * 桜の画像 : `https://tnobep-demo-public.s3.ap-northeast-1.amazonaws.com/cherry.jpg`
@@ -34,3 +36,15 @@
 * 文字を含む画像 2 : `https://tnobep-demo-public.s3.ap-northeast-1.amazonaws.com/blog-title2.jpg`  
 
 ---
+## Amazon Polly ハンズオン
+
+* Polly の機能を体験できるアプリケーション: [**PollyNotes**]()
+    - ログイン ID とパスワードはインストラクターよりご案内します。
+ 
+---
+## Amazon Transcribe ハンズオン
+  
+* ***Sandobox** 環境を使用します。
+
+
+
