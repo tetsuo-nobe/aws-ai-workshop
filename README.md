@@ -38,7 +38,7 @@
 ---
 ## Amazon Polly ハンズオン
 
-* Polly の機能を体験できるアプリケーション: [**PollyNotes**]()
+* Polly の機能を体験できるアプリケーション: [**PollyNotes**](https://demo.d3u2kpfgi4qdpw.amplifyapp.com)
     - ログイン ID とパスワードはインストラクターよりご案内します。
  
 ---
