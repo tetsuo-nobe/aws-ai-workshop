@@ -4,6 +4,7 @@
 ## ハンズオンの Sandbox 環境 へのアクセス (本日の 18:00 まで使用できます。）
 
 * (リンクを右クリックして新しいタブで開いて下さい。）
+* IAM ユーザーやパスワードはインストラクターから提示します。
 
 1. [Sandbox01](https://314146301760.signin.aws.amazon.com/console)
 1. [Sandbox02](https://535002877232.signin.aws.amazon.com/console)
@@ -30,7 +31,10 @@
 
 ## Amazon Rekognition ハンズオン
 
-* **Sandobox** 環境を使用します。
+1. **割り当てられた Sandobox** 環境の AWS マネジメントコンソールにサインインして下さい。
+1. **東京リージョン** を選択している状態にして下さい。
+1. ページ上部の検索入力エリアに `reko` と入力し、Amazon Rekognition のコンソールを開いて下さい。
+1. 以降、インストラクターのガイドに基づき操作してください。
 
 * 猫の画像 : `https://tnobep-demo-public.s3.ap-northeast-1.amazonaws.com/cat.jpg`
 * 桜の画像 : `https://tnobep-demo-public.s3.ap-northeast-1.amazonaws.com/cherry.jpg`
@@ -52,7 +56,10 @@
 ---
 ## Amazon Transcribe ハンズオン
   
-* **Sandobox** 環境を使用します。
+1. **割り当てられた Sandobox** 環境の AWS マネジメントコンソールにサインインして下さい。
+1. **東京リージョン** を選択している状態にして下さい。
+1. ページ上部の検索入力エリアに `transcribe` と入力し、Amazon Rekognition のコンソールを開いて下さい。
+1. 以降、インストラクターのガイドに基づき操作してください。
 
 * 音声ファイル： `s3://tnobep-demo-public/edo.mp3`
 
