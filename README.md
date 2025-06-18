@@ -18,6 +18,7 @@
 1. [Sandbox10](https://140023387905.signin.aws.amazon.com/console)
 1. [Sandbox11](https://559050236752.signin.aws.amazon.com/console)
 1. [Sandbox12](https://863518441980.signin.aws.amazon.com/console)
+   <!--
 1. [Sandbox13](https://396913701787.signin.aws.amazon.com/console)
 1. [Sandbox14](https://034362053786.signin.aws.amazon.com/console)
 1. [Sandbox15](https://864899829214.signin.aws.amazon.com/console)
@@ -25,6 +26,7 @@
 1. [Sandbox17](https://118218616371.signin.aws.amazon.com/console)
 1. [Sandbox18](https://681414095131.signin.aws.amazon.com/console)
 1. [Sandbox19](https://036943221048.signin.aws.amazon.com/console)
+-->
 1. [Sandbox99](https://600627346881.signin.aws.amazon.com/console)   
 
 ---
